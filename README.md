@@ -1,4 +1,3 @@
-# Iris-Flower-Classification
 # 🌸 Iris Flower Species Classification
 
 Welcome to the Iris Flower Classification project! This repository demonstrates how to use data science and machine learning to predict the species of iris flowers (Setosa, Versicolor, Virginica) based on their physical measurements.
@@ -45,7 +44,7 @@ The Iris dataset is a classic in machine learning, used to illustrate core conce
     - `PetalWidthCm`
     - `Species` (target: Setosa, Versicolor, Virginica)
 - **Rows:** 150 (50 samples per species, balanced classes)
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/saurabh00007/iriscsv?resource=download)
 
 ---
 
@@ -198,7 +197,7 @@ The Iris dataset is very well-behaved for classification tasks; feature patterns
 ## 🔗 References
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
-- [UCI Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
+- [Kaggle Iris Dataset](https://www.kaggle.com/datasets/saurabh00007/iriscsv?resource=download)
 - [Iris Dataset Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 - [Data Science Concepts](https://towardsdatascience.com/)
 - [Jupyter Project](https://jupyter.org/)
