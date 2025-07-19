@@ -1,0 +1,33 @@
+# requirements.txt for Iris Flower Classification Project
+#
+# This file lists all Python package dependencies needed to run
+# the Jupyter notebook and replicate results, with brief descriptions.
+#
+# Usage:
+#   pip install -r requirements.txt
+
+# Core data manipulation
+pandas           # Data analysis and manipulation
+numpy            # Numerical computations
+
+# Visualization
+matplotlib       # Plotting and figures
+seaborn          # Statistical data visualization
+
+# Machine learning
+scikit-learn     # Machine learning algorithms and utilities
+
+# Jupyter notebook interface
+jupyter          # Interactive notebook environment
+
+# (Optional) For better notebook rendering and progress bars
+tqdm             # Progress bar for loops 
+
+# Specify minimum versions if you want to ensure consistency:
+# pandas>=1.5.0
+# numpy>=1.22.0
+# matplotlib>=3.5.0
+# seaborn>=0.12.0
+# scikit-learn>=1.2.0
+# jupyter>=1.0.0
+# tqdm>=4.65.0
